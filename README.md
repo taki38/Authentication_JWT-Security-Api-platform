@@ -1,5 +1,5 @@
 # TAKI_JWT
-API PLATEFORM
+API PLATFORM
 vous devez load les fixtures et puis se connecter avec :
 
 ADMIN :
